@@ -1,1 +1,1 @@
-# ATM
+ATM is a modern and user-friendly ATM (Automated Teller Machine) application that brings convenience and security to the world of banking. Developed using Java and powered by the robust Spring Boot framework, EzyATM offers a seamless and efficient banking experience for users
